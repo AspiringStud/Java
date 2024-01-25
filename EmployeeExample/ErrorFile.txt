@@ -1,0 +1,3 @@
+1. Write error to a file
+2. Write another error to a file
+3. Exceptions will be written to file as an error
